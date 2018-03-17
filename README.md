@@ -1,8 +1,5 @@
 # JWordGame
 
-
-Application has some filters where it is possible to specify which words to hide.
-
 A Java desktop application that can randomly hide words in the text. The purpose of the application is to learn English for kids by forcing them to brainstorm the words.
 
 *** For example, the following text "Our woefully inadequate efforts in recycling make a strong case for tackling the problem at the source." after put in the application will filter and display the following output "Our xxxxx inadequate efforts in xxxxx make a strong xxxxx for tackling the problem at the source."
